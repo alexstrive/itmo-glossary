@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-title {
+  @apply text-3xl mb-4 font-black text-gray-700 uppercase;
+}
